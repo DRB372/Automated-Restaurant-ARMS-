@@ -1,0 +1,38 @@
+
+
+#profile{
+        border:1px solid red;
+ background:lightgreen;
+ width:500px;
+ height:200px;
+}
+#logout{
+  
+ font-size:20px;
+}
+h2{
+text-align:center;
+}
+h3{
+  color:red;
+  
+}
+
+.error{
+	color:#fbfbff;
+}
+.form-control{
+	border:10px;
+
+}
+
+form{
+	border:5px;
+	display:inline;	
+padding-top:10px;
+	padding-bottom:0px;}
+
+	
+	
+	
+	
